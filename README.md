@@ -1,4 +1,4 @@
-# Olá, eu sou Rafael Natsu
+# Rafael Natsu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelnatsu&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelnatsu" /> </p>
 
